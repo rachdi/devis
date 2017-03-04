@@ -1,9 +1,4 @@
-<?php
-//Session starts here
-
-
-
-?><!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
     <title>PHP Multi Page Form</title>
